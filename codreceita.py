@@ -1,1 +1,1 @@
-f * open('receita-bolo.txt', 'r')
+f * os.walk('receita-bolo.txt', 'r')
